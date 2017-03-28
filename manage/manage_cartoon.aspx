@@ -20,6 +20,11 @@ body {
 <style type="text/css">
 <!--
 .STYLE1 {font-size: 12px; line-height: 22px; color: #000000; font-family: "宋体";}
+    .style1
+    {
+        height: 10px;
+        width: 100px;
+    }
 -->
 </style>   
 </head>
@@ -33,7 +38,7 @@ body {
             </tr>
         </table>
 
-        <table border="0" cellpadding="0" cellspacing="0">
+        <table border="0" cellpadding="0" cellspacing="0" align="center">
             <tr>
                 <td style="width: 100px; height: 10px">
                 </td>
@@ -44,7 +49,7 @@ body {
                         <asp:ListItem Value="1">未审核视频</asp:ListItem>
                         <asp:ListItem Value="2">已审核视频</asp:ListItem>
                     </asp:RadioButtonList></td>
-                <td style="width: 100px; height: 10px">
+                <td class="style1">
                 </td>
             </tr>
             <tr>

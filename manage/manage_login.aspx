@@ -50,7 +50,7 @@ body {
                     <asp:TextBox ID="txtName" runat="server" Width="93px"></asp:TextBox></td>
           </tr>
           <tr>
-            <td class="huise1" style="width: 82px; text-align: right">密&nbsp;&nbsp; 码:</td>
+            <td class="huise1" style="width: 82px; text-align: right">密&nbsp; 码:</td>
             <td style="width: 177px; text-align: left;">
                     <asp:TextBox ID="txtPass" runat="server" Width="93px" TextMode="Password"></asp:TextBox></td>
           </tr>

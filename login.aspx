@@ -87,7 +87,7 @@ body {
                                                         <td class="huise1" style="width: 1315px; height: 30px">
                                                         </td>
                                                         <td class="huise1" style="width: 287px; height: 30px">
-                                                            &nbsp; 用户名:</td>
+                                                            用户名:</td>
                                                         <td width="165" style="height: 30px; text-align: left">
                                                             <asp:TextBox ID="txtName" runat="server" Width="87px"></asp:TextBox></td>
                                                     </tr>
@@ -95,7 +95,7 @@ body {
                                                         <td class="huise1" height="30" style="width: 1315px">
                                                         </td>
                                                         <td height="30" class="huise1" style="width: 287px">
-                                                            &nbsp; 密&nbsp; 码:</td>
+                                                            密&nbsp; 码:</td>
                                                         <td height="30" style="text-align: left">
                                                             <asp:TextBox ID="txtPass" runat="server" TextMode="Password" Width="89px"></asp:TextBox></td>
                                                     </tr>
@@ -155,15 +155,15 @@ body {
 
 
 
-<table width="900" border="0" cellspacing="0" cellpadding="0">
+<table width="900" border="0" cellspacing="0" cellpadding="0" align="center">
   <tr>
     <td height="2" align="center" bgcolor="#C7CED4"></td>
   </tr>
   <tr>
-    <td height="25" width="900" align="left" valign="middle" background="images/end1_08.jpg" bgcolor="#F9FAFC">　　　　　　　　　　　　　　　　明日主站|明日图书|明日软件|明日编程词典网|明日论坛|招贤纳士|<asp:LinkButton ID="LinkButton1"  runat="server" PostBackUrl="~/manage/manage_login.aspx" Font-Underline="False">后台登录</asp:LinkButton></td>
+    <td height="25" width="900" align="left" valign="middle" background="images/end1_08.jpg" bgcolor="#F9FAFC">　　　　　　　　　　　　　　　　<asp:LinkButton ID="LinkButton1"  runat="server" PostBackUrl="~/manage/manage_login.aspx" Font-Underline="False">后台登录</asp:LinkButton></td>
   </tr>
   <tr>
-    <td height="80"><img src="images/end2_09.jpg" width="900" height="80" /></td>
+    <td height="80">&nbsp;</td>
   </tr>
 </table>
         </div>

@@ -41,7 +41,7 @@
                 <asp:FileUpload ID="fileupVideo" runat="server" /></td>
             <td style="width: 154px; text-align: left">
                 <span style="color: #ff0033">
-                主能上传.flv .avi.wmv</span></td>
+                只能上传.flv .avi.wmv</span></td>
         </tr>
         <tr>
             <td style="width: 127px; height: 29px">

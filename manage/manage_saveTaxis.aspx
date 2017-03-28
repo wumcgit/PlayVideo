@@ -17,7 +17,8 @@
             </tr>
         </table>
 
-        <table class="huise1" border="0" cellpadding="0" cellspacing="0" style="width: 214px">
+        <table class="huise1" border="0" cellpadding="0" cellspacing="0" 
+                style="width: 214px" align="center">
             <tr>
                 <td style="width: 130px">
                     选择视频类型：</td>

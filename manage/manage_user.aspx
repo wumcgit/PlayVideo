@@ -35,7 +35,11 @@ body {
             </tr>
         </table>
 
-        <asp:GridView ID="gvUser" runat="server" AllowPaging="True" AutoGenerateColumns="False" OnPageIndexChanging="gvUser_PageIndexChanging" OnRowDataBound="gvUser_RowDataBound" OnRowDeleting="gvUser_RowDeleting" OnSelectedIndexChanging="gvUser_SelectedIndexChanging" Width="502px">
+        <asp:GridView ID="gvUser" runat="server" AllowPaging="True" 
+            AutoGenerateColumns="False" OnPageIndexChanging="gvUser_PageIndexChanging" 
+            OnRowDataBound="gvUser_RowDataBound" OnRowDeleting="gvUser_RowDeleting" 
+            OnSelectedIndexChanging="gvUser_SelectedIndexChanging" Width="502px" 
+            HorizontalAlign="Center">
             <Columns>
                 <asp:BoundField DataField="userName" HeaderText="用户名" />
                 <asp:BoundField DataField="nickName" HeaderText="昵称" />

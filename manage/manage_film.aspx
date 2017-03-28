@@ -33,7 +33,7 @@ body {
             </tr>
         </table>
 
-        <table border="0" cellpadding="0" cellspacing="0">
+        <table border="0" cellpadding="0" cellspacing="0" align="center">
             <tr>
                 <td style="width: 100px; height: 10px">
                 </td>

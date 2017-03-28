@@ -19,7 +19,7 @@ body {
 <body>
     <form id="form1" runat="server">
     <div align="center">
-    <img src="../images/htgl_top.jpg" width="779" height="100" />
+    <%--<img src="../images/htgl_top.jpg" width="779" height="100" />--%>
     <table border="0" cellpadding="0" cellspacing="0" style="width: 779px; height: 500px;
             text-align: center" id="TABLE1" onclick="return TABLE1_onclick()">
             <tr>
@@ -41,7 +41,7 @@ body {
          <table border="0" cellpadding="0" cellspacing="0" style="width: 779px; 
             text-align: center; height: 67px;" id="TABLE2" onclick="return TABLE1_onclick()">
             <tr>
-                <td background="../images/htgl_bom.jpg"></td>
+                <%--<td background="../images/htgl_bom.jpg"></td>--%>
             </tr>
          
         </table>

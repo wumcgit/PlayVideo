@@ -17,7 +17,8 @@
             </tr>
         </table>
    
-        <table class="huise1" border="0" cellpadding="0" cellspacing="0" style="width: 362px; height: 151px">
+        <table class="huise1" border="0" cellpadding="0" cellspacing="0" 
+              style="width: 362px; height: 151px" align="center">
             <tr>
                 <td style="width: 152px">
                     公告标题：</td>

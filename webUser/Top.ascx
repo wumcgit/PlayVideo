@@ -66,7 +66,7 @@
 
 
 <div align="center" >
-<table  background="../images/sy_05.jpg" width="900" height="61" align="center" cellpadding="0" cellspacing="0">
+<table   width="900" align="center" cellpadding="0" cellspacing="0">
       <tr style="width: 60px; background-image: url(../images/sy_03.jpg);" >
         <td style="width: 37px; background-image: url(../images/sy_03.jpg);">&nbsp;</td>        
         <td style="width: 502px">
@@ -83,14 +83,7 @@
  </div>
         
         </td>
-        <td width="285" valign="top"><img src="/images/sy_04.jpg" width="310" height="40" border="0" usemap="#Map" />
-           <map name="Map" id="Map">
-            <area shape="rect" coords="7,6,87,28" href="http://www.mingrisoft.com" />
-            <area shape="rect" coords="103,6,200,25" href="http://www.mrbccd.com" />
-            <area shape="rect" coords="218,6,298,26" href="#" />
-          </map>
-           
-           </td>
+        <td width="285" valign="top">&nbsp;</td>
         <td width="9">&nbsp;</td>
       </tr>
       <tr>

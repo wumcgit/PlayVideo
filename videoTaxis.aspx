@@ -268,22 +268,22 @@ body {
     </table>
     <table width="189" align="center" cellpadding="0" cellspacing="0">
         <tr>
-          <td height="5" align="center"><img src="images/line.gif" width="174" height="360" border="0" usemap="#Map2" /></td>
+          <td height="5" align="center">&nbsp;</td>
         </tr>
       </table></td>
   </tr>
 </table>
 
 
-<table width="900" border="0" cellspacing="0" cellpadding="0">
+<table width="900" border="0" cellspacing="0" cellpadding="0" align="center">
   <tr>
     <td height="2" align="center" bgcolor="#C7CED4"></td>
   </tr>
   <tr>
-    <td height="25" width="900" align="left" valign="middle" background="images/end1_08.jpg" bgcolor="#F9FAFC">　　　　　　　　　　　　　　　　明日主站|明日图书|明日软件|明日编程词典网|明日论坛|招贤纳士|<asp:LinkButton ID="LinkButton1"  runat="server" PostBackUrl="~/manage/manage_login.aspx" Font-Underline="False">后台登录</asp:LinkButton></td>
+    <td height="25" width="900" align="left" valign="middle" background="images/end1_08.jpg" bgcolor="#F9FAFC">　　　　　　　　　　　　　　　　|<asp:LinkButton ID="LinkButton1"  runat="server" PostBackUrl="~/manage/manage_login.aspx" Font-Underline="False">后台登录</asp:LinkButton></td>
   </tr>
   <tr>
-    <td height="80"><img src="images/end2_09.jpg" width="900" height="80" /></td>
+    <td height="80">&nbsp;</td>
   </tr>
 </table>
     </div>

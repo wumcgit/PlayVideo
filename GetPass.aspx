@@ -25,6 +25,10 @@ body {
               {
                   height: 35px;
               }
+              .style2
+              {
+                  height: 2px;
+              }
 -->
 </style>
 
@@ -176,7 +180,7 @@ body {
 
 <table width="900" border="0" cellspacing="0" cellpadding="0" align="center">
   <tr>
-    <td height="2" align="center" bgcolor="#C7CED4"></td>
+    <td align="center" bgcolor="#C7CED4" class="style2"></td>
   </tr>
   <tr>
     <td height="25" width="900" align="left" valign="middle" background="images/end1_08.jpg" bgcolor="#F9FAFC">　　　　　　　　　　　　　　　

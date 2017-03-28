@@ -33,7 +33,11 @@
       <tr>
         <td  valign="top"height="288" style="width: 553px">
             <asp:Panel ID="Panel1" runat="server" Height="50px" Width="125px">
-        <asp:GridView ID="gridViewName" runat="server" Height="19px" Width="491px" AutoGenerateColumns="False" OnRowDataBound="gridViewName_RowDataBound" OnSelectedIndexChanging="gridViewName_SelectedIndexChanging" AllowPaging="True" OnPageIndexChanging="gridViewName_PageIndexChanging" PageSize="2">
+        <asp:GridView ID="gridViewName" runat="server" Height="19px" Width="491px" 
+                    AutoGenerateColumns="False" OnRowDataBound="gridViewName_RowDataBound" 
+                    OnSelectedIndexChanging="gridViewName_SelectedIndexChanging" AllowPaging="True" 
+                    OnPageIndexChanging="gridViewName_PageIndexChanging" PageSize="2" 
+                    HorizontalAlign="Center">
             <Columns>
                 <asp:BoundField DataField="videoTitle" HeaderText="视频名称" >
                     <ItemStyle CssClass="huise1" />

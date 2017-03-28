@@ -38,7 +38,9 @@ body {
         </table>
 
         <asp:GridView ID="gvImg" runat="server" AutoGenerateColumns="False" Height="182px"
-                            Width="401px" AllowPaging="True" OnPageIndexChanging="gvImg_PageIndexChanging" PageSize="3" OnSelectedIndexChanging="gvImg_SelectedIndexChanging">
+                            Width="401px" AllowPaging="True" 
+            OnPageIndexChanging="gvImg_PageIndexChanging" PageSize="3" 
+            OnSelectedIndexChanging="gvImg_SelectedIndexChanging" HorizontalAlign="Center">
                             <Columns>
                                 <asp:TemplateField HeaderText="图片">
                                     <ItemTemplate>

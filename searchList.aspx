@@ -56,7 +56,8 @@ body {
   </tr>
 </table>
         
-            <table border="0" cellpadding="0" cellspacing="0" style="width: 900px">  
+            <table border="0" cellpadding="0" cellspacing="0" style="width: 900px" 
+                align="center">  
                 <tr>
                     <td style="width: 100px">
                     </td>
@@ -92,10 +93,8 @@ body {
                                                         </td>
                                                     </tr>
                                                     <tr>
-                                                        <td style="width: 104px">发布人：<a class="huise1" title='<%#Eval("userName") %>' href='userInfo.aspx?userName=<%#Eval("userName")%>'><%#Eval("userName") %></a>
-                                                        </td>
-                                                        <td style="width: 100px">视频人气：<%#Eval("playSum") %>
-                                                        </td>
+                                                        <td style="width: 104px">发布人：<a class="huise1" title='<%#Eval("userName") %>' href='userInfo.aspx?userName=<%#Eval("userName")%>'><%#Eval("userName") %></a></td>
+                                                        <td style="width: 100px">视频人气：<%#Eval("playSum") %></td>
                                                     </tr>
                                                     <tr>
                                                         <td colspan="2" style="height: 91px" valign="top">
